@@ -1,3 +1,10 @@
 redis==2.10.6
 py_zipkin==0.11.0
 requests
+thriftpy==0.3.9
+six
+charset-normalizer==2
+idna==2.5
+certifi>=2017.4.17
+urllib3==1.21.1
+ply==3.4
